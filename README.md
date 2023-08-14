@@ -1,25 +1,14 @@
 # System clinic CRUD API REST
 
+The Clinic Management System is a basic project that provides a RESTful API to manage patient and employee data. This system includes four major CRUD (Create, Read, Update, Delete) operations for patients and employees.
+
+
 
 ## Technologies used
 
 * Java 17
 * Spring Boot 
 * MySQL
-
-## Functions 
-
-### Employee
-  * Create Employee
-  * List All Employees
-  * List Employee
-  * Delete Employee
-
-### Patient
-  * Create Patient
-  * List All Patients
-  * List Patient
-  * Delete Patient
 
 
 
