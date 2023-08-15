@@ -12,9 +12,9 @@ The Clinic Management System is a basic project that provides a RESTful API to m
 
 
 
-  ## Rests da API
+ ## Rests da API
 
-  ### Employee Controller
+ ### Employee Controller
 
 |Rest |Função |
 |------ | ------- |
